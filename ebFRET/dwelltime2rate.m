@@ -6,8 +6,8 @@
 
 
 N = 2; % look at k-state dwell times
-t_exp = 0.1; % (s)
-% n_bins = 30;
+t_exp = 0.1; % exposure time per frame (s)
+% n_bins = 30; % comment out to allow automatic binning
 
 % Run in cmd line: ebf = ebFRET();
 
